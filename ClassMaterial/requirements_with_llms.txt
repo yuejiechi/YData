@@ -45,4 +45,4 @@ tensorboard
 tensorflow
 transformers
 tf-keras
-git+https://github.com/emeyers/YData_package.git@main#egg=YData
+git+https://github.com/yuejiechi/YData_package.git@main#egg=YData
