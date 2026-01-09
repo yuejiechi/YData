@@ -41,4 +41,4 @@ soupsieve
 sqlalchemy
 statsmodels
 sympy
-git+https://github.com/emeyers/YData_package.git@main#egg=YData
+git+https://github.com/yuejiechi/YData_package.git@main#egg=YData
