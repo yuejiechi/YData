@@ -48,4 +48,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-ydata = { git = "https://github.com/emeyers/YData_package.git", rev = "main" }
+ydata = { git = "https://github.com/yuejiechi/YData_package.git", rev = "main" }
